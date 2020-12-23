@@ -1,0 +1,9 @@
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\bin\Debug\marketManager.exe.config
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\bin\Debug\marketManager.exe
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\bin\Debug\marketManager.pdb
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.csprojAssemblyReference.cache
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.Properties.Resources.resources
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.csproj.GenerateResource.cache
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.exe
+C:\Users\Abdullah\OneDrive\Desktop\martketManager\marketManager\marketManager\obj\Debug\marketManager.pdb
